@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ai-medic/.github/main/profile/Banner-AiMedic.jpg" alt="Ai Medic Banner" width="100%">
+  <img src="https://github.com/AIMedic-dev/.github/blob/main/Banner-AiMedic.jpg" alt="Ai Medic Banner" width="100%">
 </p>
 
 # Ai Medic IPS | The Health Operating System
